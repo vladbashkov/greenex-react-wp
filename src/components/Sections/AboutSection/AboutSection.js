@@ -20,6 +20,7 @@ const AboutSection = () => {
     }
 
     const onDataLoaded = (value) => {
+        console.log(value);
         setState(value);
         const { sectionTitle, id, content } = value;
 
