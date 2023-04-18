@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/greenex-react-wp/static/css/main.c9d0db24.css",
+    "main.js": "/greenex-react-wp/static/js/main.04a0a308.js",
+    "index.html": "/greenex-react-wp/index.html",
+    "static/media/angle.svg": "/greenex-react-wp/static/media/angle.3823717b44bfc431fc253e7e5bc33b4e.svg",
+    "static/media/burger-btn.svg": "/greenex-react-wp/static/media/burger-btn.ec312d4d919ddaf852d7be2369f511d0.svg",
+    "main.c9d0db24.css.map": "/greenex-react-wp/static/css/main.c9d0db24.css.map",
+    "main.04a0a308.js.map": "/greenex-react-wp/static/js/main.04a0a308.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9d0db24.css",
+    "static/js/main.04a0a308.js"
+  ]
+}
