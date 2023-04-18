@@ -1,0 +1,15 @@
+@import "../../../style/variables.scss";
+
+.section-products {
+    .content-section {
+        .content-container {
+            .section-column {
+                max-width: 200px;
+
+                @media (max-width: $tablet-small) {
+                    max-width: none;
+                }
+            }
+        }
+    }
+}

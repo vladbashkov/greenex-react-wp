@@ -1,0 +1,7 @@
+.parallax-section {
+    height: 400px;
+
+    @media (max-width: $tablet) {
+        height: 300px;
+    }
+}

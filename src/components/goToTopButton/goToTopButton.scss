@@ -1,0 +1,34 @@
+@import '../../style/variables.scss';
+
+.totop-button-container {
+    width: 40px;
+    height: 40px;
+    background: $main-green;
+    position: fixed;
+    bottom: 5%;
+    right: 5%;
+    z-index: 5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2px;
+    border: 1px solid $main-green;
+    transition: $trasition;
+    opacity: 0;
+    visibility: hidden;
+    cursor: pointer;
+
+    &.show-button {
+        bottom: 10%;
+        opacity: 1;
+        visibility: visible;
+    }
+
+    &:hover {
+        background: transparent;
+    }
+
+    .arrow {
+        max-width: 20px;
+    }
+}

@@ -1,0 +1,284 @@
+{
+    "head": {
+        "pageTitle": "Expert Trading & Distribution Worldwide - Greenex Energy"
+    },
+    "navMenu": {
+        "logo": {
+            "link": "#",
+            "alt": "Greenex Logo icon"
+        },
+        "navList": [
+            {
+                "text": "about",
+                "link": "#"
+            },
+            {
+                "text": "services",
+                "link": "#"
+            },
+            {
+                "text": "logistics & distribution",
+                "link": "#"
+            },
+            {
+                "text": "products",
+                "link": "#"
+            },
+            {
+                "text": "contact",
+                "link": "#"
+            }
+        ]
+    },
+    "heroSection": {
+        "heroTitle": "Expert in Trading",
+        "heroSubtitleShort": "Greenex Energy",
+        "heroSubtitleFull": "Trading - Financing - Logistics - Distribution",
+        "contactButtonText": "get in touch",
+        "contactButtonLink": "trading@greenexenergy.ch",
+        "bgImages": [
+            {
+                "alt": "",
+                "link": ""
+            },
+            {
+                "alt": "",
+                "link": ""
+            }
+        ]
+    },
+    "aboutSection": {
+        "sectionTitle": "about",
+        "content": [
+            {
+                "paragraph": "Greenex Energy is an emerging leader in base oils and petrochemical products trade, distributing them to serve the markets in Africa, Europe, Asia and the Americas. The company stands for high-quality commodities. As an independent service company, we specialize in physical Base Oil and Petrochemicals Trading and Distribution worldwide and strive to always provide our customers with the best tailored business solutions. This includes our team’s profound expertise in refined base oil and petrochemicals, proven track record in sourcing, processing, trading activities, mastering of financing services, optimization of logistics operations and storage facilities."
+            },
+            {
+                "paragraph": "The total satisfaction of our customers and partners is our absolute ambition. In order to reach this excellence, we have built Greenex Energy on three main pillars:"
+            },
+            {
+                "list": [
+                    "long-term business relationships",
+                    "absolute supply security",
+                    "team of experienced, reliable and proven professionals"
+                ]
+            },
+            {
+                "paragraph": "We commit on establishing strong sustainable and durable relationships with our customers and partners, which are based on trust, expertise and performance. Furthermore, the securing of the commodities supplies today and in the future, is at the very heart of our business. Our international team of high-level industry experts unifies deep knowledge and a broad contact- and partner network within the markets. This strategic combination allows us to access a very broad range of Base Oil, Petrochemicals Categories, HVO, biodiesel, feedstocks, glycerine and ethanol and to safely deliver them worldwide."
+            },
+            {
+                "paragraph": "We invite you to experience our unique way of doing business and are looking forward to solving your base oil, petrochemicals, HVO, biodiesel, feedstocks, glycerine and ethanol challenges."
+            }
+            
+        ]
+    },
+    "shipParallax": {
+        "link": "some",
+        "alt": "Ship at Sea"
+    },
+    "servicesSection": {
+        "sectionTitle": "services",
+        "content": [
+            {
+                "column": {
+                        "icon": {
+                            "link": "#",
+                            "iconName": "earth"
+                        },
+                        "subtitle": "Products Trading",
+                        "text": "With our extensive and successful track record in base oil products trading, we are connecting markets, while progressively expanding our trading activities around the world. While seizing market opportunities and actively improving our supplier network, we are able to constantly optimize your base oil supply."
+                }  
+            },
+            {
+                "column": {
+                        "icon": {
+                            "link": "#",
+                            "iconName": "ship"
+                        },
+                        "subtitle": "Logistics & Distribution",
+                        "text": "Logistics infrastructure and high-level long-term logistics partnerships ensures us almost indefinite flexibility when it comes to planning and optimization of our logistics. Greenex Energy SA is your expert in bridging geographical distances and provides the operations linked to successful base oil trading."
+                }  
+            },
+            {
+                "column": {
+                        "icon": {
+                            "link": "#",
+                            "iconName": "truck"
+                        },
+                        "subtitle": "Base Oil Products",
+                        "text": "We propose a large portfolio of base oil products of first, second and third group. Our supplier network gives us the necessary flexibility and enables us to meet any your technical and volume requirements. Thanks to our solid expertise in different markets, we deliver our products tailored to your needs and geographical location."
+                } 
+            },
+            {
+                "button": {
+                    "text": "see our presence",
+                    "link": "#"
+                }
+            }
+        ]
+    },
+    "factoryParallax": {
+        "link": "some",
+        "alt": "Factory"
+    },
+    "logDistSection": {
+        "sectionTitle": "logistics & distribution",
+        "content": [
+            {
+                "paragraph": "Greenex Energy operates a network of storage facilities located in the ARA area, the Baltics, Mediterranean sea area. In order to constantly optimize our logistic operations and improve proximity to the consumer markets, we are continuously expanding our facilities in strategic locations."
+            },
+            {
+                "paragraph": "To meet with the highest international standards and customers’ expectations, we integrate only first class facilities & equipment in our operations. This allows us to maintain high order-lead time and immediate delivery of our products, as well as the availability to execute blending operations of top quality virgin paraffinic base oils."
+            },
+            {
+                "paragraph": "We deliver through a vast network and according to your needs:"
+            },
+            {
+                "list": [
+                    "ex-shore tanks (Dordrecht, Netherlands / Latvia, Baltics, Antwerp for ex-shoretanks)",
+                    "in tankers (1’000-15’000 mt)",
+                    "in flexi-tanks (single- / multi-layer) or in ISO-tanks",
+                    "by truckload"
+                ]
+            }
+        ]
+    },
+    "cranesParallax": {
+        "link": "some",
+        "alt": "Sea Port Cranes"
+    },
+    "productsSection": {
+        "sectionTitle": "product range",
+        "content": [
+            {
+                "column_list": [
+                    {
+                        "subtitle": "alcohols & solvents",
+                        "list": [
+                            "Methanol", "n-Butanol", "IPA", "2-Ethylhexanol", "Isobutyl alcohol",
+                            "Acetone", "Glycerine", "n-Hexane", "White Spirit", "Acetic Acid",
+                            "Caustic Soda", "HAB (Heavy Alkyl Benzene)", "Phenol", "VAM (Vinyl Acetate Monomer)",
+                            "VCM (Vinyl Chloride Monomer)", "LAB (Linear Alkyl Benzene)"
+                        ]
+                    },
+                    {
+                        "subtitle": "Aromatics & Gasoline Components",
+                        "list": [
+                            "Benzene", "Cumene", "Ethylbenzene", "Xylenes", "Orthoxylene", "Paraxylene", 
+                            "Pyrolisis", "Styrene", "Toluene", "TMAE (Tertiary Methyl Amyl Ether)", "Raffinate",
+                            "Reformate", "MTBE (Methyl Tertiary Butyl Ether)"
+                        ]
+                    },
+                    {
+                        "subtitle": "Oil Products",
+                        "list": [
+                           "Base Oils", "Bitumen", "Diesel Oil", "Fuel Oil", "Gasoil", "Gasoline", "LPG",
+                           "Naphta", "VGO (Vacuum Gas Oil)"
+                        ]
+                    },
+                    {
+                        "subtitle": "Various Glycols (Fiber Intermediates)",
+                        "list": [
+                            "MEG (Monoethylene Glycol)", "DEG (Dimethyl Terephthalate)", "TEG (Triethylene Glycol)"
+                        ]
+                    },
+                    {
+                        "subtitle": "Olefins / (Gases)",
+                        "list": [
+                            "Propylene", "Ethylene", "Butadiene", "CC4"
+                        ]
+                    },
+                    {
+                        "subtitle": "Plastics",
+                        "list": [
+                            "PE (HDPE, LDPE, LLDPE) PP"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "pipesParallax": {
+        "link": "some",
+        "alt": "Pipes"
+    },
+    "officesSection": {
+        "sectionTitle": "our offices",
+        "content": [
+            {
+                "map": {
+                    "link": "some",
+                    "alt": "Map of our offices"
+                }
+            },
+            {
+                "offices": [
+                    {
+                        "city": "dubai",
+                        "subtitle": "Greenex Energy DMCC",
+                        "adress": "Unit No: 2808 Indigo Icon Plot No: JLT-PH1-F3A Jumeirah Lakes Towers Dubai Dubai, United Arab Emirates",
+                        "phone": "+971 4 770 1427"
+                    },
+                    {
+                        "city": "stambul",
+                        "subtitle": "GNX Greenex Energy Sanayi ve Ticaret A.S.",
+                        "adress": "Barbaros Mah. Mor Sumbul Sk. Varyap Meridian Blok No:1 D:28 Ataşehir/Istanbul, Turkey"
+                    },
+                    {
+                        "city": "geneva",
+                        "subtitle": "Service Office",
+                        "adress": "Rue de la Croix d’Or 17A 1204, Geneva Switzerland",
+                        "phone": "+41 (0)22 317 73 90",
+                        "fax": "+41 (0)22 317 73 99",
+                        "email": "info@greenexenergy.com"
+                    }
+                ]
+            }
+        ]
+    },
+    "copyright": "Copyright © 2014-2022, Greenex Energy SA. All rights reserved.",
+    "oilProductsSection": {
+        "sectionTitle": "base oil products",
+        "content": [
+            {
+                "paragraph": "Greenex Energy is an emerging leader in base oils and petrochemical products trade, distributing them to serve the markets in Africa, Europe, Asia and the Americas. The company stands for high-quality commodities. As an independent service company, we specialize in physical Base Oil and Petrochemicals Trading and Distribution worldwide and strive to always provide our customers with the best tailored business solutions. This includes our team’s profound expertise in refined base oil and petrochemicals, proven track record in sourcing, processing, trading activities, mastering of financing services, optimization of logistics operations and storage facilities."
+            },
+            {
+                "paragraph": "The total satisfaction of our customers and partners is our absolute ambition. In order to reach this excellence, we have built Greenex Energy on three main pillars:"
+            },
+            {
+                "list": [
+                    "long-term business relationships",
+                    "absolute supply security",
+                    "team of experienced, reliable and proven professionals"
+                ]
+            },
+            {
+                "paragraph": "We commit on establishing strong sustainable and durable relationships with our customers and partners, which are based on trust, expertise and performance. Furthermore, the securing of the commodities supplies today and in the future, is at the very heart of our business. Our international team of high-level industry experts unifies deep knowledge and a broad contact- and partner network within the markets. This strategic combination allows us to access a very broad range of Base Oil, Petrochemicals Categories, HVO, biodiesel, feedstocks, glycerine and ethanol and to safely deliver them worldwide."
+            },
+            {
+                "paragraph": "We invite you to experience our unique way of doing business and are looking forward to solving your base oil, petrochemicals, HVO, biodiesel, feedstocks, glycerine and ethanol challenges."
+            },
+            {
+                "paragraph": "Greenex Energy is an emerging leader in base oils and petrochemical products trade, distributing them to serve the markets in Africa, Europe, Asia and the Americas. The company stands for high-quality commodities. As an independent service company, we specialize in physical Base Oil and Petrochemicals Trading and Distribution worldwide and strive to always provide our customers with the best tailored business solutions. This includes our team’s profound expertise in refined base oil and petrochemicals, proven track record in sourcing, processing, trading activities, mastering of financing services, optimization of logistics operations and storage facilities."
+            },
+            {
+                "paragraph": "The total satisfaction of our customers and partners is our absolute ambition. In order to reach this excellence, we have built Greenex Energy on three main pillars:"
+            },
+            {
+                "list": [
+                    "long-term business relationships",
+                    "absolute supply security",
+                    "team of experienced, reliable and proven professionals"
+                ]
+            },
+            {
+                "paragraph": "We commit on establishing strong sustainable and durable relationships with our customers and partners, which are based on trust, expertise and performance. Furthermore, the securing of the commodities supplies today and in the future, is at the very heart of our business. Our international team of high-level industry experts unifies deep knowledge and a broad contact- and partner network within the markets. This strategic combination allows us to access a very broad range of Base Oil, Petrochemicals Categories, HVO, biodiesel, feedstocks, glycerine and ethanol and to safely deliver them worldwide."
+            },
+            {
+                "paragraph": "We invite you to experience our unique way of doing business and are looking forward to solving your base oil, petrochemicals, HVO, biodiesel, feedstocks, glycerine and ethanol challenges."
+            }
+            
+        ]
+    }
+}

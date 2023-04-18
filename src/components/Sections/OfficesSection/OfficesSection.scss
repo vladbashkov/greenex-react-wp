@@ -1,0 +1,38 @@
+@import '../../../style/variables.scss';
+
+.content-container {
+    .column-map {
+        width: 100%;
+    }
+
+    .column-office {
+        text-align: center;
+
+        .icon {
+            max-width: 14px;
+            margin: 0 5px;
+            display: inline;
+        }
+
+        .column-subtitle_italic {
+            font-style: italic;
+            margin: 10px 0;
+        }
+
+        .column-link {
+            display: flex;
+            justify-content: center;
+            color: $main-green;
+            transition: $trasition;
+
+            &:hover {
+                color: $text;
+            }
+        }
+
+        .column-adress {
+            max-width: 250px;
+            margin: 0 auto;
+        }
+    }
+}

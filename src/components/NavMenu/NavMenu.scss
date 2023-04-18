@@ -1,0 +1,135 @@
+@import '../../style/variables.scss';
+
+.container {
+    max-width: 100% !important;
+    background: $white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 5;
+
+    .nav-menu_container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        font-family: $main-font;
+        color: $main-green;
+        max-width: 80%;
+        margin: 0 auto;
+        transition: $trasition;
+        padding: 30px 0;
+
+        &.menuShrunk {
+            padding: 15px 0;
+        }
+    
+        @media (max-width: $mobile-large) {
+           flex-direction: column;
+           align-items: center;
+           padding: 20px 0;
+
+           &.menuShrunk {
+            padding: 10px 0;
+        }
+        }
+    
+        .nav-logo {
+            width: auto;
+            cursor: pointer;
+    
+            @media (max-width: $tablet) {
+                max-width: 200px;
+            }
+        }
+    
+        .nav-menu {
+    
+            .nav-list {
+                display: flex;
+                justify-content: flex-end;
+                align-items: center;
+        
+                .nav-li {
+                    padding: 0 14px;
+                    font-size: 14px;
+                    transition: $trasition;
+                    cursor: pointer;
+        
+                    &:hover {
+                        text-decoration: underline;
+                        color: #767676;
+                    }
+                }
+    
+                @media (max-width: $tablet-small) {
+                    display: none;
+                }
+            }
+    
+            .burger-container {
+                display: none;
+                position: relative;
+    
+                .burger-btn {
+                    z-index: 5;
+    
+                    @media (max-width: $mobile-large) {
+                        margin: 0 50%;
+                    }
+                }
+    
+                .nav-list_burger {
+                    position: absolute;
+                    right: -400px;
+                    top: 13px;
+                    overflow: hidden;
+                    transition: $trasition;
+                    color: $white;
+                    background: $nav-bg;
+    
+                    .nav-li {
+                        text-align: left;
+                        border-top: 1px solid $nav-borders;
+                        padding: 15px 35px;
+                    }
+    
+                    @media (max-width: $mobile-large) {
+                        width: 100%;
+                        right: -700px;
+                    }
+                }
+    
+                .nav-show {
+                    right: 10px;
+    
+                    @media (max-width: $mobile-large) {
+                        right: 0;
+                        width: 100%;
+                    }
+                }
+    
+                @media (max-width: $tablet-small) {
+                    display: flex;
+                    justify-content: end;
+                    width: 300px;
+                }
+    
+                @media (max-width: $mobile-large) {
+                    display: flex;
+                    justify-content: center;
+                    width: 100%;
+                }
+            }
+    
+            @media (max-width: $mobile-large) {
+                margin-top: 40px;
+                width: 100%;
+            }
+
+            @media (max-width: $mobile) {
+                margin-top: 10px;
+            }
+        }
+    }
+}

@@ -1,0 +1,37 @@
+// Fonts
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500;600;700&family=Source+Sans+Pro:wght@300;400&display=swap');
+$main-font: 'Raleway', sans-serif;
+$secondary-font: 'Source Sans Pro', sans-serif;
+
+// Colors
+
+$main-green: #12ad0a;
+$text-strong: #443f3f;
+$text: #767676;
+$white: #FFFFFF;
+$nav-bg: #1C1C1C;
+$nav-borders: #252525;
+
+// Screen width
+
+$desktop-large: 1960px;
+$desktop: 1650px;
+$laptop: 1450px;
+$tablet-large: 1200px;
+$tablet: 960px;
+$tablet-small: 768px;
+$mobile-large: 640px;
+$mobile: 480px;
+$mobile-small: 360px;
+
+// Font weights 
+
+$fw-light: 300;
+$fw-regular: 400;
+$fw-semibold: 600;
+$fw-extrabold: 800;
+
+// Other
+
+$trasition: all 0.3s ease-in-out;

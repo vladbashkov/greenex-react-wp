@@ -1,0 +1,44 @@
+@import '../../../style/variables.scss';
+
+.error-page {
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 100px 0;
+
+    .error-text {
+        text-transform: uppercase;
+        font-size: 57px;
+        font-weight: $fw-semibold;
+        font-family: $main-font;
+        text-shadow: 1px 1px 3px rgb(0 0 0 / 30%);
+        padding: 10px 0 20px;
+        position: relative;
+
+        &::after {
+            content: '';
+            height: 1px;
+            width: 60%;
+            background: $main-green;
+            position: absolute;
+            top: 85%;
+            transform: translate(-50%, 50%);
+            left: 50%;
+        }
+
+        @media (max-width: $mobile-large) {
+            font-size: 40px;
+        }
+    }
+
+    .error-link {
+        font-size: 40px;
+        color: $main-green;
+        padding: 50px 0;
+
+        &:hover {
+            text-decoration: underline;
+            color: $text;
+        }
+    }
+}

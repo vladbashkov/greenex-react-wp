@@ -1,0 +1,89 @@
+@import '../../../style/variables.scss';
+
+.hero-section {
+    position: relative;
+
+    .hero-parallax {
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        color: $white;
+
+        .react-parallax-bgimage {
+            height: 100% !important;
+        }
+    
+        .hero-title {
+            font-size: 57px;
+            font-weight: $fw-semibold;
+            font-family: $main-font;
+            text-shadow: 1px 1px 3px rgb(0 0 0 / 30%);
+            padding: 10px 0 20px;
+    
+            &::after {
+                content: '';
+                height: 1px;
+                width: 40%;
+                background: $main-green;
+                position: absolute;
+                top: 55%;
+                transform: translate(-50%, 50%);
+                left: 50%;
+
+                @media (max-width: $mobile-large) {
+                    top: 60%;
+                }
+            }
+
+            @media (max-width: $mobile-large) {
+                font-size: 40px;
+                margin: 0 0 10px;
+            }
+        }
+    
+        .hero-subtitle {
+            font-size: 30px;
+            font-family: $secondary-font;
+            font-weight: $fw-regular;
+            padding: 20px 0;
+            text-shadow: 1px 1px 3px rgb(0 0 0 / 30%);
+
+            @media (max-width: $mobile-large) {
+                font-size: 22px;
+                padding: 0 5px;
+            }
+        }
+    }
+
+    .hero-button_container {
+        position: absolute;
+        left: 50%;
+        top: 60%;
+        transform: translate(-50%, 60%);
+        z-index: 5;
+        background: $main-green;
+        color: $white;
+        font-family: $main-font;
+        font-weight: $fw-semibold;
+        padding: 15px 35px;
+        border-radius: 3px;
+        transition: $trasition;
+        border: 1px solid $main-green;
+        cursor: pointer;
+
+        @media (max-width: $mobile-large) {
+            padding: 15px 25px;
+        }
+
+        &:hover {
+            background: transparent;
+            text-shadow: 1px 1px 3px rgb(0 0 0 / 30%);
+        }
+
+        .hero-button {
+            text-transform: uppercase;
+        }
+    }
+}
