@@ -1,7 +1,7 @@
 {
   "name": "greenex",
   "version": "0.1.0",
-  "homepage": "/greenex-react-wp/static/",
+  "homepage": "/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.0",

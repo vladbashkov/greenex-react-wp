@@ -9,7 +9,7 @@ const Page404 = () => {
                 Page doesn't exist
             </h2>
             <Link
-                to="/build"
+                to="/"
                 className="error-link"
             >
                 Back to main page

@@ -129,7 +129,6 @@ const useContent = (content) => {
 
         } else if(item.map) {
             const id = Math.floor(Math.random() * (1983852 - 1204954) + 1853450);
-            console.log(item.map);
 
             return (
                 
