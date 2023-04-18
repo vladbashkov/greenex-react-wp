@@ -1,0 +1,5 @@
+In package.json:
+ On server:
+    "homepage": "."
+ On gh-pages:
+    "homepage": "http://vladbashkov.github.io/greenex-react-wp"
