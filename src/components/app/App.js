@@ -19,7 +19,7 @@ const App = () => {
         </header>
         <main>
           <Routes>
-            <Route path="/" element={ <MainPage/> } />
+            <Route path="/greenex-react-wp" element={ <MainPage/> } />
             <Route path="/base-oil-products" element={ <BaseProductOils /> } />
             <Route path="*" element={ <Page404/> } />
           </Routes>
